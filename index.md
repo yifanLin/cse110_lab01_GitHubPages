@@ -4,6 +4,7 @@
     Nice to meet you, I am Yifan. 
     My pronoun is she/her/hers.
     I am from Xiamen, Fujian, China. And this is my family in Hong Kong. 
+    
     ![alt text](https://github.com/yifanLin/cse110_lab01_GitHubPages.git/2b838e75f9616968.jpg)
     Life goal before turning 25 is to financially support myself and my dog properly :dog:
     Fitness/choreography/music lover :muscle: :dancers: :musical_note:
