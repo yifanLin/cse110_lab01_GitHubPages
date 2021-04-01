@@ -25,7 +25,7 @@
 ## Random
     My favorite day of a week is Sunday. I used to hate Sunday as a kid, as the next day is Monday when school starts again. However, 
     after college, I tried to finish most of the work before Sunday noon (does not work our from time to time smh), so I enjoyed 
-    Sunday afternoon doing something new, or just chilling with a TV series or a movie. 
+    Sunday afternoon doing something new, or just chilling with a TV series or a movie :relieved:
 
 ## Other contact info
     [Facebook](https://www.facebook.com/yifan.lin.3975)
