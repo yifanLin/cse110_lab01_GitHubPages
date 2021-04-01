@@ -1,6 +1,6 @@
 # **Welcome to Yifan Lin's User Page :)**
 
-## Basics
+## About Me
 Nice to meet you, I am Yifan. 
 My pronoun is she/her/hers.
 I am from Xiamen, Fujian, China. And this is my family in Hong Kong. 
