@@ -13,7 +13,7 @@
     my knowledge in Biology, Mathematics, Statistics, Physics, Chemistry, and Computer Science. This school year, my courses focused 
     on expanding my programming and algorithm design knowledge and experiences, for example, in Next-Gen-Sequencing (NSG) algorithms 
     including DNA origin folk discovery, DNA alignment and assembly, and RNA alignments. This Spring, I am taking intro to Software 
-    Development, and this index page is lab1 and the first step of my SE journey. 
+    Development, and this index page is lab1 and the first step of my SE journey!
 
 ## Research
     I have commited to Subramaniam's Lab at UCSD for over 2 years now, during which me and my team applied multiomics methods to study 
