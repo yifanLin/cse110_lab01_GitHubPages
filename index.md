@@ -28,5 +28,5 @@
     Sunday afternoon doing something new, or just chilling with a TV series or a movie. 
 
 ## Other contact info
-    Facebook: https://www.facebook.com/yifan.lin.3975
-    LinkedIn: www.linkedin.com/in/yifan-lin-82a05116
+    [Facebook](https://www.facebook.com/yifan.lin.3975)
+    [LinkedIn](www.linkedin.com/in/yifan-lin-82a05116)
